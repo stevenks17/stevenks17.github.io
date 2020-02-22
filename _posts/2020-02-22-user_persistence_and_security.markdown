@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      " User Persistence and Security"
-date:       2020-02-22 17:31:04 +0000
+date:       2020-02-22 12:31:05 -0500
 permalink:  user_persistence_and_security
 ---
 
